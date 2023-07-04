@@ -3,6 +3,16 @@
 ## Problem Statement: 
 To predict medical insurence charges by using various features:
 
+
+
+
+
+
+
+
+
+
+# Im trying to learn modification
 ## Feature Names:
 1. Age
 2. BMI
@@ -10,8 +20,6 @@ To predict medical insurence charges by using various features:
 4. Smoker
 5. Region
 6. Children
-
-
 ## Run
 
 ```bash
